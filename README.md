@@ -1,4 +1,4 @@
-# CSCE 509 Pattern Recognition Homeworks
+# Pattern Recognition Homeworks
 
 This repository contains four Google Colab notebooks for Pattern Recognition homeworks. Each notebook implements and evaluates a different classification algorithm on synthetic two-moons.
 
